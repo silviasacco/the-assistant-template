@@ -8,23 +8,17 @@ module.exports = {
 
   // Il nome con cui il bot si presenta e il tono che deve usare.
   business: {
-    name: 'Silvia NeuroBranding',
+    name: 'Il tuo nome o brand',
     toneNotes: 'Diretta, calda, mai formale. Frasi brevi. Niente linguaggio da azienda.'
   },
 
   // Le tue offerte. Aggiungine quante ne vuoi, con questo stesso schema.
   offerings: [
     {
-      name: 'THE ASSISTANT',
-      price: '€ 37',
-      whatIncludes: 'Il mio assistente personale per quando voglio staccare ma mi serve qualcuno che segua le chat per me mentre io faccio altro.',
-      forWho: 'È pensato per chi non ha tempo per gestire le chat e le domande ripetitive. È il tuo assistente personale.'
-    },
-     {
-      name: 'THE GLITCH',
-      price: '€ 297',
-      whatIncludes: 'Il mio Best seller, il corso registrato che copre tutto ciò che devi sapere per mandare al massimo il tuo business sfruttando neuroscienze, pattern inconsci, marketing radicato e automazioni.',
-      forWho: 'È pensato per chi vuole ricostruire il suo brand da zero o vuole uscire dal burnout e ottenere finalmente un business che funziona senza impazzire.'
+      name: 'Nome del prodotto o servizio',
+      price: '€ 0',
+      whatIncludes: 'Cosa include, in poche righe.',
+      forWho: 'Per chi è pensato — che problema risolve.'
     }
   ],
 
@@ -32,8 +26,8 @@ module.exports = {
   // Il bot le userà come esempio del tuo modo di rispondere.
   faq: [
     {
-      q: 'Quanto costa THE ASSISTANT?',
-      a: 'Solo 37€ e potrai automatizzare tutta la tua attività di chat clienti.'
+      q: 'Domanda frequente che ricevi',
+      a: 'La risposta che daresti tu, con le tue parole.'
     }
   ],
 
