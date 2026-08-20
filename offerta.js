@@ -8,16 +8,16 @@ module.exports = {
 
   // Il nome con cui il bot si presenta e il tono che deve usare.
   business: {
-    name: 'Il tuo nome o brand',
+    name: 'Silvia NeuroBranding',
     toneNotes: 'Diretta, calda, mai formale. Frasi brevi. Niente linguaggio da azienda.'
   },
 
   // Le tue offerte. Aggiungine quante ne vuoi, con questo stesso schema.
   offerings: [
     {
-      name: 'Nome del prodotto o servizio',
-      price: '€ 0',
-      whatIncludes: 'Cosa include, in poche righe.',
+      name: 'THE ASSISTANT - chatbotAI',
+      price: '€ 37',
+      whatIncludes: 'Il mio assistente personale per quando voglio staccare ma mi serve qualcuno che segua le chat per me mentre io faccio altro.',
       forWho: 'Per chi è pensato — che problema risolve.'
     }
   ],
