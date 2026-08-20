@@ -19,6 +19,12 @@ module.exports = {
       price: '€ 37',
       whatIncludes: 'Il mio assistente personale per quando voglio staccare ma mi serve qualcuno che segua le chat per me mentre io faccio altro.',
       forWho: 'È pensato per chi non ha tempo per gestire le chat e le domande ripetitive. È il tuo assistente personale.'
+    },
+     {
+      name: 'THE GLITCH',
+      price: '€ 297',
+      whatIncludes: 'Il mio Best seller, il corso registrato che copre tutto ciò che devi sapere per mandare al massimo il tuo business sfruttando neuroscienze, pattern inconsci, marketing radicato e automazioni.',
+      forWho: 'È pensato per chi vuole ricostruire il suo brand da zero o vuole uscire dal burnout e ottenere finalmente un business che funziona senza impazzire.'
     }
   ],
 
