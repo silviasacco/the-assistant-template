@@ -1,0 +1,9 @@
+{
+  "name": "the-assistant",
+  "version": "1.0.0",
+  "description": "THE ASSISTANT — bot Telegram con AI che risponde alle domande sulla tua offerta, usando le tue stesse parole.",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
