@@ -15,10 +15,10 @@ module.exports = {
   // Le tue offerte. Aggiungine quante ne vuoi, con questo stesso schema.
   offerings: [
     {
-      name: 'THE ASSISTANT - chatbotAI',
+      name: 'THE ASSISTANT',
       price: '€ 37',
       whatIncludes: 'Il mio assistente personale per quando voglio staccare ma mi serve qualcuno che segua le chat per me mentre io faccio altro.',
-      forWho: 'Per chi è pensato — che problema risolve.'
+      forWho: 'È pensato per chi non ha tempo per gestire le chat e le domande ripetitive. È il tuo assistente personale.'
     }
   ],
 
@@ -26,8 +26,8 @@ module.exports = {
   // Il bot le userà come esempio del tuo modo di rispondere.
   faq: [
     {
-      q: 'Domanda frequente che ricevi',
-      a: 'La risposta che daresti tu, con le tue parole.'
+      q: 'Quanto costa THE ASSISTANT?',
+      a: 'Solo 37€ e potrai automatizzare tutta la tua attività di chat clienti.'
     }
   ],
 
